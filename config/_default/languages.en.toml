@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "@orbotik - FactoryKit, Inventions, & Making Things!"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "images/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "The official @orbotik FactoryKit! Whether it's inventing electronics, 3D printing, RC & drones, or table-top gaming with friends... I want to share my experiences & opinions with you!"
+  copyright = "&copy; Christopher Eaton"
+
+[params.author]
+  name = "@orbotik"
+#   email = "youremail@example.com"
+  image = "images/profile.jpg"
+  imageQuality = 96
+  headline = "FactoryKit, Inventions, & Making Things!"
+  bio = "I am a creative engineering artist- a maker & table-top gamer. Whether it's inventing electronics, 3D printing, RC & drones, or table-top gaming with friends... I want to share my experiences & opinions with you!"
+  links = [
+    { makerworld = "https://makerworld.com/en/@orbotik" },
+    { thingiverse = "https://www.thingiverse.com/orbotik/" },
+    { printables = "https://www.printables.com/@orbotik_3280979" },
+    { github = "https://github.com/orbotik" },
+    { x-twitter = "https://x.com/orbotik" },
+    { youtube = "https://youtube.com/orbotik" },
+  ]

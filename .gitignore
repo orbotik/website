@@ -1,0 +1,12 @@
+node_modules
+__pycache__
+.env
+old/
+client/assets/*.min.*
+*.old
+*.old.*
+*.ignore.*
+*.ignore
+*.key
+*.cert
+public/
