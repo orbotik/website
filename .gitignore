@@ -10,3 +10,4 @@ client/assets/*.min.*
 *.key
 *.cert
 public/
+resources/

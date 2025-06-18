@@ -1,5 +1,5 @@
 ---
-title: "Official Launch of @orbotik"
+title: "Official Launch!"
 summary: "I'm happy to announce the launch of my new channel @orbotik!"
 categories: ["blog",]
 tags: ["first", "launch"]
