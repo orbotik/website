@@ -1,7 +1,7 @@
 ---
 title: "Official Launch!"
 summary: "I'm happy to announce the launch of my new channel @orbotik!"
-categories: ["blog",]
+categories: ["blog"]
 tags: ["first", "launch"]
 #externalUrl: ""
 showSummary: true

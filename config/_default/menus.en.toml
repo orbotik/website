@@ -20,31 +20,38 @@
  weight = 20
 
 [[main]]
- name = "What is FactoryKit?"
  parent = "FactoryKit"
- pageRef = "posts"
+ name = "What is FactoryKit?"
+ pageRef = "factorykit"
  weight = 10
 
-[[main]]
- name = "Belts!"
- parent = "FactoryKit"
- pageRef = "posts"
- weight = 20
- pre = "boom-gate"
+# [[main]]
+#  parent = "FactoryKit"
+#  name = "Belts!"
+#  pageRef = "posts"
+#  weight = 20
+#  pre = "boom-gate"
 
-[[main]]
- name = "Pipes!"
- parent = "FactoryKit"
- pageRef = "posts"
- pre = "pipe"
- weight = 30
+# [[main]]
+#  parent = "FactoryKit"
+#  name = "Pipes!"
+#  pageRef = "posts"
+#  pre = "pipe"
+#  weight = 30
 
-[[main]]
- name = "Robots!"
- parent = "FactoryKit"
- pageRef = "posts"
- pre = "robot-industrial"
- weight = 30
+# [[main]]
+#  parent = "FactoryKit"
+#  name = "Robots!"
+#  pageRef = "posts"
+#  pre = "robot-industrial"
+#  weight = 30
+
+# [[main]]
+#  parent = "FactoryKit"
+#  name = ""
+#  url = "https://github.com/orbotik/factorykit"
+#  pre = "github"
+#  weight = 30
 
 # [[subnavigation]]
 #  name = "An interesting topic"
@@ -73,12 +80,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
 
-[[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
