@@ -15,15 +15,15 @@
  pageRef = "articles"
  weight = 10
 
-[[main]]
- name = "FactoryKit"
- weight = 20
+# [[main]]
+#  name = "FactoryKit"
+#  weight = 20
 
-[[main]]
- parent = "FactoryKit"
- name = "What is FactoryKit?"
- pageRef = "factorykit"
- weight = 10
+# [[main]]
+#  parent = "FactoryKit"
+#  name = "What is FactoryKit?"
+#  pageRef = "factorykit"
+#  weight = 10
 
 # [[main]]
 #  parent = "FactoryKit"
