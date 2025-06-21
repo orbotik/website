@@ -6,7 +6,7 @@ tags: ["news", "whatev"]
 #externalUrl: ""
 showSummary: true
 date: 2025-06-20
-draft: true
+draft: false
 ---
 
 {{< lead >}}
@@ -20,8 +20,13 @@ FactoryKit is not quite ready for primetime yet, but it will be soon. Here's a f
 1. A clear and consise *standards* guideline to ensure cross-compatibility in the community.
 2. Parts and pieces to add, customize, and connect FactoryKit compatible widgets together.
 3. A launch of at least one set of widgets of FactoryKit.
-4. A free-to-use license for hobbyists & enthusiasts.
-5. An no-nonsense and no-cost accessible commerical license for monetized Youtubers, bloggers, education & training,
-   social media influencers, and derivative creators & inventors. Also with an alternative pathway for anyone 
-   else who wants to sell FactoryKit originals.
-6. A continuing effort to release even more!
+4. A free-to-use license for hobbyists, educators, & enthusiasts.
+5. A no-nonsense and no-cost accessible commerical license for monetized Youtubers, bloggers, education & training,
+   social media influencers, and derivative creators & inventors. And an alternative pathway for anyone else who wants
+   to sell FactoryKit originals.
+6. An introductory video and series of videos dedicated to the creation, use, and announcements for all things 
+   FactoryKit on the [@orbotik](https://www.youtube.com/@orbotik) YouTube channel.
+7. A continuing effort to release even more widgets!
+
+So when's this expected to begin? Well, I don't have an exact date- there's so much more work to do, but for sure in
+the next 2-3 months! Stay tuned fellow tuners!
