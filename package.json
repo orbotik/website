@@ -2,17 +2,24 @@
     "name": "website",
     "version": "1.0.0",
     "main": "index.js",
+    "description": "",
+    "private": true,
+    "type": "module",
     "scripts": {
-        "start": "hugo serve"
+        "start": "hugo serve",
+        "clone-mdi": "node scripts/clone-mdi.js"
     },
     "repository": {
         "type": "git",
         "url": "git@orbotik.github.com:orbotik/website.git"
     },
-    "author": "",
-    "license": "ISC",
-    "description": "",
-    "dependencies": {
+    "author": {
+        "name": "Christopher Eaton",
+        "url": "https://orbotik.com"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "devDependencies": {
+        "@mdi/svg": "^7.4.47",
         "blowfish-tools": "^1.10.0"
     }
 }
