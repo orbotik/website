@@ -35,23 +35,30 @@
 # [[main]]
 #  parent = "FactoryKit"
 #  name = "Pipes!"
-#  pageRef = "posts"
+#  pageRef = "factorykit/pipes"
 #  pre = "pipe"
 #  weight = 30
 
+# # [[main]]
+# #  parent = "FactoryKit"
+# #  name = "Robots!"
+# #  pageRef = "posts"
+# #  pre = "robot-industrial"
+# #  weight = 30
+
 # [[main]]
 #  parent = "FactoryKit"
-#  name = "Robots!"
-#  pageRef = "posts"
-#  pre = "robot-industrial"
-#  weight = 30
+#  name = "Compatibility Standards"
+#  pageRef = "factorykit/standards"
+#  pre = "check-decagram-outline"
+#  weight = 80
 
 # [[main]]
 #  parent = "FactoryKit"
 #  name = ""
 #  url = "https://github.com/orbotik/factorykit"
 #  pre = "github"
-#  weight = 30
+#  weight = 100
 
 # [[subnavigation]]
 #  name = "An interesting topic"
