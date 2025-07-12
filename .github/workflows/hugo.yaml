@@ -68,7 +68,7 @@ jobs:
         run: |
           ls -lah
           pwd
-          ln -s ln -s $PWD/assets/icons $PWD/static/icons
+          ln -s ln -s $PWD/assets/icons ./static/icons
       - name: Build with Hugo
         run: |
           hugo \
