@@ -1,3 +1,4 @@
+static/icons
 node_modules
 __pycache__
 .env
