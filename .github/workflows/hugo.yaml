@@ -65,10 +65,7 @@ jobs:
       - name: Configure Git
         run: git config core.quotepath false
       - name: Add icons
-        run: |
-          ls -lah
-          pwd
-          ln -s ln -s $PWD/assets/icons ./static/icons
+        run: ln -s $PWD/assets/icons ./static/icons
       - name: Build with Hugo
         run: |
           hugo \
