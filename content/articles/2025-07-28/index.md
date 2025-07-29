@@ -37,12 +37,12 @@ assets to being amazingly easy to modify and adjust, not to mention they have a 
 
 Here's a few tokens for the Daggerheart official quickstart I put together and customized:
 
-- Barnacle
-- Garrick Reed
-- Marlowe Fairwind
-- Khari Nix
-- Varian Soto
-- Whitefire Arcanist
+- [Barnacle](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/barnacle)
+- [Garrick Reed](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/garrick-reed)
+- [Marlowe Fairwind](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/marlowe-fairwind)
+- [Khari Nix](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/khari-nix)
+- [Varian Soto](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/varian-soto)
+- [Whitefire Arcanist](https://app.demiplane.com/nexus/daggerheart/sources/quick-start-adventure/the-sablewood-messengers#ThePackage)
 
 {{< gallery >}}
 <img src="barnacle.png" alt="Barnacle" class="grid-w33 md:grid-w33 xl:grid-w25" />
